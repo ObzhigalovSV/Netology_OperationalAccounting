@@ -9,7 +9,7 @@
 
 ## Чек-лист готовности к домашнему заданию
 
-- скачать каркасную конфигурацию [файл new_carcass_8_3_17_1496.dt](https://github.com/Bofh82/onec-mid-homeworks/blob/main/OCPS/new_carcass_8_3_17_1496.dt).
+- скачать каркасную конфигурацию [файл new_carcass_8_3_17_1496.dt](https://github.com/ObzhigalovSV/Netology_OperationalAccounting/blob/main/new_carcass_8_3_17_1496.dt).
 - создать пустую информационную базу.
 - загрузить в неё каркасную конфигурацию.
 - просмотреть материал занятия.
