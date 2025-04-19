@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommandGroup xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6e5cb9db-f350-434a-bd76-0cb98d64b503">
-  <name>ДополнительныеСвойстваКонтрагентов</name>
-  <synonym>
-    <key>ru</key>
-    <value>Дополнительные свойства контрагентов</value>
-  </synonym>
-  <representation>Auto</representation>
-</mdclass:CommandGroup>
